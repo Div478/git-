@@ -1,2 +1,3 @@
 hello user
-Have A Good Day .
+Have A Good Day 
+Good Day.
